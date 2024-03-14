@@ -35,5 +35,5 @@
 ![Screenshot (54)3](https://github.com/Shahzeebul/Java_Assignment/assets/104351775/4f33ea80-4729-41ce-8754-1330f11cd29d)
 ### After Update
 ![Screenshot (54)2](https://github.com/Shahzeebul/Java_Assignment/assets/104351775/3510138b-78c8-4fd1-b3ab-5ad577916e50)
-
-
+### After Deletion
+![Screenshot (54)1](https://github.com/Shahzeebul/Java_Assignment/assets/104351775/a22aee4e-d926-47be-ba44-195e8e5f66e4)
