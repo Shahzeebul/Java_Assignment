@@ -29,5 +29,7 @@
 
 
 ## 6. Changes in Database
-![Screenshot (52)](https://github.com/Shahzeebul/Java_Assignment/assets/104351775/19a7f03a-9490-4086-bfa8-7be7450c6cbb)
-![Screenshot (53)](https://github.com/Shahzeebul/Java_Assignment/assets/104351775/4ca8ad5a-9e36-4352-b2ac-36b6210a8734)
+![Screenshot (53)1](https://github.com/Shahzeebul/Java_Assignment/assets/104351775/c491373a-10cc-4d38-ac83-1e27be52b93f)
+
+![Screenshot (53)2](https://github.com/Shahzeebul/Java_Assignment/assets/104351775/2051dc47-717f-425b-8de4-f1d135902514)
+
